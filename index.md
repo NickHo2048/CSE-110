@@ -33,7 +33,7 @@ Animals are cool. Here are some cool animals
 - Pigs
 - Pigeons
 
-![Chinchilla](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FChinchilla&psig=AOvVaw2LdzqvtVSztrpFrY2ArTgP&ust=1681077818881000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCbnYWlm_4CFQAAAAAdAAAAABAD)
+![Chinchilla](chinchilla.JPG)
 
 ## Todo List
 - [x] 110 HW
