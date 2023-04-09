@@ -1,7 +1,5 @@
 # Nicholas Ho
 
-![Me](me.jpg)
-
 ## Table of Contents
 
 [Intro](index.md#intro)
