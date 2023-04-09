@@ -5,6 +5,9 @@
 ## Table of Contents
 
 [Intro](index.md#intro)
+[CS Stuff](index.md#cs-stuff)
+[Animals](index.md#animals)
+[Todo List](index.md#todo-list)
 
 
 ## Intro
