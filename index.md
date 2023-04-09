@@ -1,6 +1,13 @@
 # Nicholas Ho
 
+## Table of Contents
+
+[Intro](index.md/Intro)
+
+
 ## Intro
+
+![Me](me.jpg)
 
 Hi, my name is **Nicholas Ho**. I'm from Las Vegas. I'm a Sophomore. I really like Star Wars and cars. 
 
@@ -10,6 +17,8 @@ Hi, my name is **Nicholas Ho**. I'm from Las Vegas. I'm a Sophomore. I really li
 
 
 ## CS Stuff
+
+![Brain](brain.webp))
 
 `devices = [device for device in devices if device]` - line of code I wrote at my internship
 
