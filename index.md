@@ -5,15 +5,20 @@
 ## Table of Contents
 
 [Intro](index.md#intro)
+
 [CS Stuff](index.md#cs-stuff)
+
 [Animals](index.md#animals)
+
 [Todo List](index.md#todo-list)
 
 
 ## Intro
-Hi, my name is **Nicholas Ho**. I'm from Las Vegas. I'm a Sophomore. I really like Star Wars and cars. 
 
 > "Your focus determines your reality" - Qui-Gon Jinn
+
+Hi, my name is **Nicholas Ho**. I'm from Las Vegas. I'm a Sophomore. I really like Star Wars and cars. 
+
 
 ![Green car](supercar.png)
 
