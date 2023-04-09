@@ -14,13 +14,12 @@
 
 
 ## Intro
+![Green car](supercar.png)
 
 > "Your focus determines your reality" - Qui-Gon Jinn
 
 Hi, my name is **Nicholas Ho**. I'm from Las Vegas. I'm a Sophomore. I really like Star Wars and cars. 
 
-
-![Green car](supercar.png)
 
 
 ## CS Stuff
