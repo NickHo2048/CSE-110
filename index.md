@@ -15,16 +15,18 @@ Hi, my name is **Nicholas Ho**. I'm from Las Vegas. I'm a Sophomore. I really li
 
 [My favorite programming language](README.md)
 
-List of best Coding Languages:
-1. Python
-2. C++
-3. Java
-4. R
-5. Assembly
+CS topics that interest me most:
+1. Deepfaking/AI
+2. VR/AR
+3. Chipmaking
+4. Cybersecurity
+5. UX/Design
 
 ## Animals
 
 Animals are cool. Here are some cool animals
+
+![Chinchilla](chinchilla.JPG)
 
 - Chinchilla
 - Capybara
@@ -33,7 +35,7 @@ Animals are cool. Here are some cool animals
 - Pigs
 - Pigeons
 
-![Chinchilla](chinchilla.JPG)
+
 
 ## Todo List
 - [x] 110 HW
