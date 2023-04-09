@@ -1,14 +1,13 @@
 # Nicholas Ho
 
+![Me](me.jpg)
+
 ## Table of Contents
 
-[Intro](index.md/Intro)
+[Intro](index.md#intro)
 
 
 ## Intro
-
-![Me](me.jpg)
-
 Hi, my name is **Nicholas Ho**. I'm from Las Vegas. I'm a Sophomore. I really like Star Wars and cars. 
 
 > "Your focus determines your reality" - Qui-Gon Jinn
@@ -18,7 +17,7 @@ Hi, my name is **Nicholas Ho**. I'm from Las Vegas. I'm a Sophomore. I really li
 
 ## CS Stuff
 
-![Brain](brain.webp))
+![Brain](brain.webp)
 
 `devices = [device for device in devices if device]` - line of code I wrote at my internship
 
